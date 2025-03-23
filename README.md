@@ -14,7 +14,7 @@ The AI Resume Analyzer is a web application designed to automate the resume scre
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Python, Flask/Django, Named Entity Recognition (NER) Libraries
+- **Backend**: Python, streamlit, Named Entity Recognition (NER) Libraries
 - **Database**: MySQL, PostgreSQL, or SQLite
 - **Others**: RESTful API, Resume parsing libraries
 
